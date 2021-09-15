@@ -4,6 +4,7 @@
 - I’m currently building my first busniess?
 - I’m looking to collaborate on blockchain, game dev, or AI development
 - 📫 Youtube: @ Code Drip
+- Also can be found @blakeschafer.com
 
 <!---
 balakaye/balakaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
