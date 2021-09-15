@@ -2,7 +2,7 @@
 - I like to make youtube videos
 - I am also interested in crypto, game development, and AI
 - I’m currently building my first busniess?
-- I’m looking to collaborate on blockchain, or AI development
+- I’m looking to collaborate on blockchain, game dev, or AI development
 - 📫 Youtube: @ Code Drip
 
 <!---
